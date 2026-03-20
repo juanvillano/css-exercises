@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.group-selector {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.first {
+    background-color: hsl(0, 100%, 0%);
+    color: white;
+}
+
+.second {
+    background-color: hsl(60, 100%, 50%);
+}
